@@ -117,7 +117,7 @@ print("""
   |      2.) Create a username list          |
   |     Press any different key to exit      |
   |           created by; $bash              |
-  |           memoryhackers.org              |
+  |                                          |
   .------------------------------------------.
 """)
 a = int(input("[*] Please enter choice.: "))
